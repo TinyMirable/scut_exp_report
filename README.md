@@ -1,6 +1,6 @@
 # Scut experiment Report template
 
-Scut的 Typst 模板，基于 [hzkonor/bubble-template](https://github.com/hzkonor/bubble-template) 修改开发。
+Scut云计算实验报告的 Typst 模板，基于 [hzkonor/bubble-template](https://github.com/hzkonor/bubble-template) 修改开发。
 
 ## 特点
 

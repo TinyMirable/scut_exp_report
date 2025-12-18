@@ -16,7 +16,7 @@ Scut云计算实验报告的 Typst 模板，基于 [hzkonor/bubble-template](htt
 | ----------------------------- | --------------------------- |
 | ![Main page](images/main_1.png) | ![Example](images/main_2.png) |
 
-可见仓库中的 `template/report.typ` 示例。
+
 
 
 
